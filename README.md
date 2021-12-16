@@ -12,4 +12,3 @@ JTextfield, JFrame 등 사용한 GUI 구성
 21.12.16 
 -1차 완성 (보완해야함)
 
-
