@@ -8,7 +8,3 @@ JDBC, Heidi Sql, Eclips 사용.
 DB 컬럼 구성 (코드,이름,가격,등급,수량,수정 시간)
 
 JTextfield, JFrame 등 사용한 GUI 구성
-
-21.12.16 
--1차 완성 (보완해야함)
-
